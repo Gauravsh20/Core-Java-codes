@@ -1,0 +1,4 @@
+#Properties file
+#Thu Mar 30 10:49:07 IST 2023
+username=root
+password=yeswanth@123
